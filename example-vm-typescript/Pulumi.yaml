@@ -1,0 +1,3 @@
+name: example-vm-typescript
+runtime: nodejs
+description: A minimal Azure Native TypeScript Pulumi program
